@@ -1,6 +1,6 @@
 public class casebased3 {
     public static void main(String[] args) {
-      String var = "Harry";
+      String var= "Harry";
   switch (var) {
     case "Shubham":
         System.out.println("you are going to become an adult");
