@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class avg {
-    public static int calculateavg(int a,int b,int c){
+    public static int calculateAvg(int a,int b,int c){
         int sum = a+b+c;
         int avg=sum/3;
         
@@ -15,7 +15,7 @@ public class avg {
         System.out.print("enter the third number : ");
         int c=sc.nextInt();
         System.out.print("the avg is : ");
-        System.out.println(calculateavg(a, b, c));
+        System.out.println(calculateAvg(a, b, c));
         sc.close();
     }
     
