@@ -3,5 +3,6 @@ public class string5 {
     String sentence = "My name is Mitali";
     String name=sentence.substring(11,17);
     System.out.println(name);
+    
    } 
 }
