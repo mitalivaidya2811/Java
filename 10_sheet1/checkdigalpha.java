@@ -15,6 +15,8 @@ public class checkdigalpha {
     }
     
 }
+ sc.close();
 
   }  
 }
+
