@@ -16,7 +16,7 @@ public class casebased1 {
         System.out.println("you are to join a job");
         break;
         case 60:
-        System.out.println("you are to get  a retired");
+        System.out.println("you are to going a retired");
         break;
         default:
         System.out.println("enjoy your life");
