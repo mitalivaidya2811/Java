@@ -6,13 +6,13 @@ public class password {
      for(int i=0;i<=N;i++){
         int X=sc.nextInt();
         if(X!=1999){
-            System.out.println("incorrect");
+            System.out.println("Wrong");
         }
         else{
             System.out.println("correct");
             break;
         }
-        sc.close();
      }
+      sc.close();
     }
 }
