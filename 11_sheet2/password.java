@@ -12,7 +12,8 @@ public class password {
             System.out.println("correct");
             break;
         }
-     }
+    }
       sc.close();
     }
 }
+
